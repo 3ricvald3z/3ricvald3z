@@ -18,7 +18,7 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
     
 -   DevOps & Automation: Bash Scripting, Docker, Ansible, GitHub CLI.
     
--   AI & Productivity: Local LLM Deployment (Ollama/Open WebUI), LibreOffice Suite.
+-   AI & Productivity: Google Gemini, Local LLM Deployment (Ollama/Open WebUI), LibreOffice Suite.
     
 -   Networking & Security: UFW, Fail2Ban, Nmap, SSH Hardening.
     
