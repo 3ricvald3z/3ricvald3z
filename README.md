@@ -1,6 +1,6 @@
 # Hi, I'm Eric! 🐈‍⬛
 
-### 🌍 GIS Specialist | 🐧 Linux Veteran | 🏗️ Aspiring SysAdmin
+### 👨‍💻 Information Technology Specialist | 🐧 Linux Veteran | 🏗️ Aspiring SysAdmin
 
 My journey into tech started with a challenge: after graduating as a GIS & Geography major, I found myself locked out of the industry's standard tools due to the high cost of ArcGIS Pro and AutoCAD.
 
