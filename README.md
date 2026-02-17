@@ -38,6 +38,8 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
 📫 Connect with Me
 
 -   X (Twitter): @[3ricvald3z](https://x.com/3ricvald3z)
+
+-   LinkedIn: @[3ricv4ld3z](www.linkedin.com/in/3ricv4ld3z)
     
 -   Instagram: @[animation_n_t00ns_4_u](https://www.instagram.com/animation_n_t00ns_4_u/)
     
