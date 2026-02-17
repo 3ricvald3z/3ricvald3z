@@ -38,3 +38,6 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
 
 ----------
 
+<p align="center">
+  <img src="walk02_2.jpg" alt="The End" width="600">
+</p>
