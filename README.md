@@ -1,4 +1,4 @@
-# Hi, I'm Eric! 👋
+# Hi, I'm Eric! 🐈‍⬛
 
 ### 🌍 GIS Specialist | 🐧 Linux Veteran | 🏗️ Aspiring SysAdmin
 
