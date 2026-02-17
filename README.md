@@ -16,7 +16,7 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
     
 -   GIS & Design: QGIS, GRASS GIS, LibreCAD.
     
--   DevOps & Automation: Bash Scripting, Docker, Ansible, GitHub CLI.
+-   DevOps & Automation: Bash Scripting, VirtualBox, Docker, Ansible, GitHub CLI.
     
 -   AI & Productivity: Google Gemini, Google Suite, Local LLM Deployment (Ollama/Open WebUI), LibreOffice Suite.
     
