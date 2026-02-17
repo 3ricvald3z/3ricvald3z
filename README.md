@@ -20,7 +20,7 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
     
 -   AI & Productivity: Google Gemini, Google Suite, Local LLM Deployment (Ollama/Open WebUI), LibreOffice Suite.
     
--   Networking & Security: UFW, Fail2Ban, Nmap, SSH Hardening.
+-   Networking & Security: UFW, Fail2Ban, Nmap, Wireshark, SSH Hardening.
     
 
 ### 
