@@ -14,7 +14,7 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
 
 -   Operating Systems: Debian (Primary), Enterprise Linux, Ubuntu.
     
--   GIS & Design: QGIS, GRASS GIS, LibreCAD.
+-   GIS & Design: Google Earth, QGIS, GRASS GIS, LibreCAD.
     
 -   DevOps & Automation: Bash Scripting, VirtualBox, Docker, Ansible, GitHub CLI.
     
