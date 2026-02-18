@@ -41,7 +41,7 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
 
 -   LinkedIn: @[3ricv4ld3z](www.linkedin.com/in/3ricv4ld3z)
     
--   Instagram: @[animation_n_t00ns_4_u](https://www.instagram.com/3ricvald3z/)
+-   Instagram: @[3ricvald3z](https://www.instagram.com/3ricvald3z/)
     
 
 ### 
