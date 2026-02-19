@@ -1,6 +1,6 @@
 # Hi, I'm Eric!
 
-### 👨‍💻 Information Technology Specialist | 🌎 GIS | 🐧 Linux Veteran
+### 👨‍💻 Information Technology Specialist | 🐧 Linux Veteran | 💻 FOSS
 
 My journey into tech started with a challenge: after graduating as a GIS major, I found myself locked out of the industry's standard tools due to the high cost of ArcGIS Pro and AutoCAD.
 
