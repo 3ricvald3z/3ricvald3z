@@ -1,4 +1,4 @@
-# Hi, I'm Eric! 🐈‍⬛
+# Hi, I'm Eric!
 
 ### 👨‍💻 Information Technology Specialist | 🌎 GIS | 🐧 Linux Veteran
 
