@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Information Technology Specialist | 🌎 GIS | 🐧 Linux Veteran
 
-My journey into tech started with a challenge: after graduating as a GIS & Geography major, I found myself locked out of the industry's standard tools due to the high cost of ArcGIS Pro and AutoCAD.
+My journey into tech started with a challenge: after graduating as a GIS major, I found myself locked out of the industry's standard tools due to the high cost of ArcGIS Pro and AutoCAD.
 
 Refusing to be sidelined, I transitioned to the world of open-source. What began as a necessity—learning QGIS and LibreOffice—turned into a 5-year deep dive into the Linux ecosystem. Today, I'm a veteran Linux user dedicated to building open-source stacks that are as powerful as they are accessible.
 
