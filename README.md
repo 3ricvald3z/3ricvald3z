@@ -20,7 +20,7 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
 
 🛠️ Technical Toolkit
 
--   Operating Systems: Debian (Primary), Enterprise Linux, Ubuntu.
+-   Operating Systems: Debian , Ubuntu.
     
 -   GIS & Design: Google Earth, QGIS, GRASS GIS, LibreCAD.
     
