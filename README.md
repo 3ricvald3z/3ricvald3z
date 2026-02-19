@@ -35,19 +35,18 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
 
 ----------
 
-📫 Connect with Me
+## 🔗 Connect With Me
 
--   X (Twitter): @[3ricvald3z](https://x.com/3ricvald3z)
+* **LinkedIn:** [linkedin.com/in/3ricvald3z](https://www.linkedin.com/in/3ricvald3z)
+* **GitHub:** [github.com/3ricvald3z](https://github.com/3ricvald3z)
+* **Email:** 3ric.vald3z@gmail.com
 
--   LinkedIn: @[3ricv4ld3z](www.linkedin.com/in/3ricv4ld3z)
-    
--   Instagram: @[3ricvald3z](https://www.instagram.com/3ricvald3z/)
+---
 
----------------------------------------------------------
-| 🐚 bash — eric@debian:~                               |
----------------------------------------------------------
-$ gpg --import eric_valdez_pub.asc
+### 🔑 Public GPG Key
+**Fingerprint:** `C03C FA84 7BC6 D8F5 6FD5 C64E 3872 BD4F 0B36 9A37`
 
+```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEaZeNgBYJKwYBBAHaRw8BAQdAPWw3VZpvcctFqIlC9g87S/1JUUN3GEHk2q1V
@@ -60,10 +59,4 @@ l42AEgorBgEEAZdVAQUBAQdAvT5cK0Rmxg+4SHmIEWWaer7FTntYzQjo0SnBfRRM
 CRA4cr1PCzaaN1o8AP0basJdRshIfvt0PML/d+8hmSKEYy4ethaNrhE6rrVn/wEA
 hjGahgSqGtoA5xhe7tpdMUHWS/EcHqQdfj6LspA0BwU=
 =5KLr
-
 -----END PGP PUBLIC KEY BLOCK-----
-    
-
-### 
-
-----------
