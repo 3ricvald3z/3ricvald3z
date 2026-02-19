@@ -42,6 +42,26 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
 -   LinkedIn: @[3ricv4ld3z](www.linkedin.com/in/3ricv4ld3z)
     
 -   Instagram: @[3ricvald3z](https://www.instagram.com/3ricvald3z/)
+
+---------------------------------------------------------
+| 🐚 bash — eric@debian:~                               |
+---------------------------------------------------------
+$ gpg --import eric_valdez_pub.asc
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaZeNgBYJKwYBBAHaRw8BAQdAPWw3VZpvcctFqIlC9g87S/1JUUN3GEHk2q1V
+028rb/+0I0VyaWMgVmFsZGV6IDwzcmljLnZhbGQzekBnbWFpbC5jb20+iJAEExYK
+ADgWIQTAPPqEe8bY9W/Vxk44cr1PCzaaNwUCaZeNgAIbAwULCQgHAgYVCgkICwIE
+FgIDAQIeAQIXgAAKCRA4cr1PCzaaNzvdAQCX0tY2IDTOp3vKXYmR7uwByl9sVxLp
+tebJ+ixvSe7yDAEA8b5dAJSs8115JgMzIkow3xuun0pxTk2z+8h5nb/OugG4OARp
+l42AEgorBgEEAZdVAQUBAQdAvT5cK0Rmxg+4SHmIEWWaer7FTntYzQjo0SnBfRRM
+7wADAQgHiHgEGBYKACAWIQTAPPqEe8bY9W/Vxk44cr1PCzaaNwUCaZeNgAIbDAAK
+CRA4cr1PCzaaN1o8AP0basJdRshIfvt0PML/d+8hmSKEYy4ethaNrhE6rrVn/wEA
+hjGahgSqGtoA5xhe7tpdMUHWS/EcHqQdfj6LspA0BwU=
+=5KLr
+
+-----END PGP PUBLIC KEY BLOCK-----
     
 
 ### 
