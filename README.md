@@ -20,7 +20,7 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
 
 🛠️ Technical Toolkit
 
--   Operating Systems: Debian ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white), Ubuntu ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white).
+-   Operating Systems: ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white), ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white).
     
 -   GIS & Design: Google Earth, QGIS, GRASS GIS, LibreCAD.
     
