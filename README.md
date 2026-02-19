@@ -12,7 +12,7 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
 
 🎯 Current Focus
 
-* **Infrastructure Automation:** Mastering **Ansible** to transition my shell scripts into scalable, idempotent playbooks.
+* **Infrastructure Automation:** Mastering ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) to transition my shell scripts into scalable, idempotent playbooks.
 * **Enterprise Security:** Deepening my expertise in **SSH hardening**, advanced **UFW/Fail2Ban** configurations, and audit logging.
 * **Virtualization & Containers:** Expanding my local lab capabilities by integrating **Docker** orchestration with my existing VirtualBox workflows.
 
