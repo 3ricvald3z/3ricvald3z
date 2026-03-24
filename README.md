@@ -37,8 +37,6 @@ Refusing to be sidelined, I transitioned to the world of open-source. What began
 
 ## 🔗 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/3ricvald3z](https://www.linkedin.com/in/3ricvald3z)
-* **GitHub:** [github.com/3ricvald3z](https://github.com/3ricvald3z)
 * **Email:** 3ric.vald3z@gmail.com
 
 ---
